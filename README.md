@@ -1,5 +1,5 @@
 # GradCam-InceptionV3
-Visualized activation maps for InceptionV3 Neural Network
+Visualized activation maps for a InceptionV3 Neural Network trained to distinguish between various tick species.
   
 Relevant articles:  
 Selvaraju, Ramprasaath R., Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, and Dhruv Batra. 2020. “Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization.” International Journal of Computer Vision 128 (2): 336–59. https://doi.org/10.1007/s11263-019-01228-7.  
